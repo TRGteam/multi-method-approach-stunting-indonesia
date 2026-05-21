@@ -16,7 +16,9 @@ This repository contains the complete R code and outputs to replicate the analys
 
 ## Requirements
 - R version 4.5 or higher.
-- The data that support the findings of this study are available from the corresponding author upon reasonable request. The replication code is openly available in this repository (https://github.com/TRGteam/multi-method-approach-stunting-indonesia) under an MIT license.
+
+## Data and Code Availability
+The data that support the findings of this study are available from the corresponding author upon reasonable request. The replication code is openly available in this repository (https://github.com/TRGteam/multi-method-approach-stunting-indonesia) under an MIT license.
 
 ## Contact
 Open an issue on this repository for questions.
