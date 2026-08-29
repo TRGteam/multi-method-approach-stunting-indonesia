@@ -2,7 +2,7 @@
 
 ## Description
 This repository contains the complete R code and outputs to replicate the analyses in the paper:  
-**"A Multi-Method Approach Integrating Bayesian Multilevel SEM, Machine Learning, and Structure Learning for Analyzing Hierarchical Health Data"**
+**"A Multi-Method AI Framework Integrating Explainable Machine Learning, Bayesian Multilevel Modeling, and Latent Profile Analysis for Childhood Stunting Surveillance in Indonesia"**
 
 ## Repository Structure
 - `multilevelsem_rev_ori.R` - Main R script containing all analyses.
